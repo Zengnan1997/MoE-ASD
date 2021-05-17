@@ -21,4 +21,5 @@ the dlCE embedding size is 100
 
 %%% run baseline
 > cd baseline
+> 
 > python baseline_train.py --pos 'adj' --embed 'fasttext'
